@@ -1,5 +1,7 @@
-# hello-world
-python online
-Hi everyone!
-Abbas here, I am Cybersecurity student at ACC.
-Python is the first languge I am going to learn, and so far i like it.
+######################
+# Name: Abbas Outadi
+# Coding 01
+# Purpose: My first coding in python.
+######################
+name = input("Abbas Outadi: ")
+print("Hello", name)
